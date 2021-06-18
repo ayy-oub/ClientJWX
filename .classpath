@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Hajjaji/.m2/repository/jakarta/xml/ws/jakarta.xml.ws-api/2.3.2/jakarta.xml.ws-api-2.3.2.jar" sourcepath="C:/Users/Hajjaji/.m2/repository/jakarta/xml/ws/jakarta.xml.ws-api/2.3.2/jakarta.xml.ws-api-2.3.2-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="jakarta.xml.ws"/>
+			<attribute name="maven.artifactId" value="jakarta.xml.ws-api"/>
+			<attribute name="maven.version" value="2.3.2"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Hajjaji/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar" sourcepath="C:/Users/Hajjaji/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="jakarta.xml.bind"/>
+			<attribute name="maven.artifactId" value="jakarta.xml.bind-api"/>
+			<attribute name="maven.version" value="2.3.2"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Hajjaji/.m2/repository/jakarta/jws/jakarta.jws-api/1.1.1/jakarta.jws-api-1.1.1.jar" sourcepath="C:/Users/Hajjaji/.m2/repository/jakarta/jws/jakarta.jws-api/1.1.1/jakarta.jws-api-1.1.1-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="jakarta.jws"/>
+			<attribute name="maven.artifactId" value="jakarta.jws-api"/>
+			<attribute name="maven.version" value="1.1.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
